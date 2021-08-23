@@ -936,7 +936,7 @@ background: #ffffff;
      .portfolio .card{
  
         width: 250px;
-          height: 300px;
+          height: 330px;
           margin: auto !important;
           border-radius: 0px;
           border-radius: 11px;
@@ -964,7 +964,7 @@ background: #ffffff;
         color: #000;
     }
     .home p{
-        font-size: 13px;
+        font-size: 15px;
         
     }
     .home h2 {
